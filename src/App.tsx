@@ -1,11 +1,10 @@
-import React from "react";
-import { useState } from "react";
+// import { useState } from "react";
 import TaskTracker from "./TaskTracker";
 
 const App = () => {
-  const [count, setCount] = useState<number>(0);
-  const [toggle, setToggle] = useState<boolean>(true);
-  const [inputValue, setinputValue] = useState<string>("");
+  // const [count, setCount] = useState<number>(0);
+  // const [toggle, setToggle] = useState<boolean>(true);
+  // const [inputValue, setinputValue] = useState<string>("");
   return (
     <>
       {/* <div>
